@@ -1,1 +1,1 @@
-[Android mini](https://www.notion.so/sp1r1t/Android-Preference-Partag-es-29ea8a3fcb118051a76ed8ceb61b9010)
+[Android mini](https://www.notion.so/sp1r1t/Android-mini-29ea8a3fcb118035ac79d14c15429305)
