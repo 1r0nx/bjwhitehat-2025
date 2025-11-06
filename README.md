@@ -4,4 +4,4 @@ It was a solo CTF format
 My dashboard at the end of the CTF
 
 
-[dashboard](/Images/dashboard_1.png)
+![dashboard](/Images/dashboard_1.png)
