@@ -4,4 +4,4 @@ On this repo will be hosted write ups from the CTF bjwhitehats 2025 I was able t
 Here my dashboard at the end of the CTF
 
 
-[dashboard](/attachements/dashboard_1.png)
+![dashboard](/attachements/dashboard_1.png)
